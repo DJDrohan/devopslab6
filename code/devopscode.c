@@ -2,6 +2,7 @@
 
 int main()
 {
+
     int var1;
 
     float var2;
