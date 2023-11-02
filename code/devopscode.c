@@ -2,7 +2,7 @@
 
 int main()
 {
-
+//this is a comment
     int var1;
 
     float var2;
